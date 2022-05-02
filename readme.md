@@ -6,3 +6,4 @@ upload all your slide files to the /rawFiles/raw/ folder with a prefix and numbe
 add this code: {SLIDES:(SLIDE FILE PREFIX),(AMOUNT OF SLIDES),(SLIDE FILE TYPE)}
 (you can see an example of what the html file should look like in /rawFiles/ipaddress.htm)
 run it</pre>
+example of what a page should look like: https://140.82.63.214:58932/hi/
